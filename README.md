@@ -15,7 +15,7 @@ This tool is provided "as is." I am not responsible for any issues that arise fr
 git clone https://github.com/mirsmi/EmailSender.git
 cd EmailSender
 ```
-2. Replace "app password here" in envs.py with your Gmail App Password (Google "how to get Gmail app password" for details).
+2. Replace "enter sender email" in Email_Sender.py with your email and replace "app password here" in envs.py with your Gmail App Password (Google "how to get Gmail app password" for details).
 3. Run the script:
 ```
 python Email_Sender.py
