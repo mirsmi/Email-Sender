@@ -1,6 +1,6 @@
 # EmailSender
 ## Overview
-The Email Sender tool is a simple Python application that allows users to send emails to multiple recipients via Gmail. It features a graphical interface for entering the subject, body, and recipient emails (separated by a comma).
+A simple Python application that allows users to send emails to multiple recipients via Gmail. It features a user interface for entering the email subject, body, and recipient emails (separated by a comma).
 
 ## Dependencies
 - Python 3.x
