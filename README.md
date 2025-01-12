@@ -12,7 +12,7 @@ This tool is provided "as is." I am not responsible for any issues that arise fr
 ## Setup
 1. Clone the repository:
 ```
-git clone https://github.com/mirsmi/EmailSender.git
+git clone https://github.com/mirsmi/Email-Sender.git
 cd EmailSender
 ```
 2. Replace "enter sender email" in Email_Sender.py with your email and replace "app password here" in envs.py with your Gmail App Password (Google "how to get Gmail app password" for details).
