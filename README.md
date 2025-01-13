@@ -20,3 +20,6 @@ cd EmailSender
 ```
 python Email_Sender.py
 ```
+## Screenshots
+![Screenshot 2025-01-10 140401](https://github.com/user-attachments/assets/bed75a5e-e1f6-4718-b85f-50e4e245c2ab)
+![Screenshot 2025-01-10 140427](https://github.com/user-attachments/assets/62429250-00a0-4cee-8453-89eb7c8b5555)
